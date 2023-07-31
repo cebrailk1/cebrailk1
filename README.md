@@ -2,7 +2,7 @@
 - 👀 I’m interested in going to the gym, football and watching good series (Game of Thrones e.g.)
 - 🌱 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: via Mail: hello@cebrail.dev
+- 📫 How to reach me: via Mail: hello@cebrail.dev or cebrail.kocakafa@gmail.com
 
 <!---
 cebrailk1/cebrailk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
