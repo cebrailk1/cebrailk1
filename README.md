@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cebrailk1
 - 👀 I’m interested in going to the gym, football and watching good series (Game of Thrones e.g.)
-- 🌱 I’m currently learning Python and HTML
+- 🌱 I’m currently learning Python, Java, Javascript, C# and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: via Mail: hello@cebrail.dev or cebrail.kocakafa@gmail.com
 
