@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cebrail Kocakafa</h1>
 <h3 align="center">A ongoing developer from Germany</h3>
 
-- 🌱 I’m currently learning **Python, Java, Javascript, C# and also Data Science.**
+- 🌱 I’m currently learning **Python and also going through an Data Science course.**
 
 - 📫 How to reach me **cebrail.kocakafa@gmail.com or hello@cebrail.dev**
 
