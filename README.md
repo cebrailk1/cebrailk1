@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cebrail Kocakafa</h1>
 <h3 align="center">A ongoing developer from Germany</h3>
 
-- 🌱 I’m currently learning **Web Development with Techlabs**
+- 🌱 I’m currently a trainee
 
 - 📫 How to reach me **cebrail.kocakafa@gmail.com**
 
