@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently a trainee
 
-- 📫 How to reach me **cebrail.kocakafa@gmail.com**
-
 - ⚡ Hobbies **I like going to the gym, play soccer and watch good series like Game of Thrones, Rick & Morty, Breaking Bad, You etc.**
 
 
