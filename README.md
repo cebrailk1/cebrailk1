@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently a trainee
 
-- ⚡ Hobbies **I like going to the gym, play soccer and watch good series like Game of Thrones, Rick & Morty, Breaking Bad.**
+- ⚡ Hobbies **I like going to the gym, play soccer and watch good series like Pluribus, Game of Thrones, Rick & Morty, Breaking Bad.**
 
 
 
