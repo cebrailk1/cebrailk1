@@ -1,10 +1,4 @@
-<!--
-============================================================
-  WICHTIG: Ersetze ÜBERALL "cebrailk1" durch deinen
-  echten GitHub-Usernamen (Find & Replace).
-  Anleitung + Snake-Workflow stehen unten im Chat.
-============================================================
--->
+
 
 <!-- ===================== HEADER ===================== -->
 <a href="https://github.com/cebrailk1">
@@ -95,11 +89,11 @@ const cebrail = {
 <!-- Adaptive card: passt sich automatisch an Light/Dark-Mode des Betrachters an -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cebrailk1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=cebrailk1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=24292f&bg_color=ffffff" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=cebrailk1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF" alt="github stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats-cebrailk1-8808s-projects.vercel.app/api?username=cebrailk1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://stats-cebrailk1-8808s-projects.vercel.app/api?username=cebrailk1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=24292f&bg_color=ffffff" />
+    <img height="170" src="https://stats-cebrailk1-8808s-projects.vercel.app/api?username=cebrailk1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF" alt="github stats" />
   </picture>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cebrailk1&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=58A6FF&text_color=c9d1d9" alt="top languages" />
+  <img height="170" src="https://stats-cebrailk1-8808s-projects.vercel.app/api/top-langs/?username=cebrailk1&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=58A6FF&text_color=c9d1d9" alt="top languages" />
 </div>
 
 <div align="center">
