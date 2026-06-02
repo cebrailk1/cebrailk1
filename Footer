@@ -1,0 +1,35 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="50%" stop-color="#13294b" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+    <linearGradient id="fwave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0.4" />
+    </linearGradient>
+    <linearGradient id="fwave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0.25" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#fbg)" />
+
+  <!-- Top waves (mirrored from header) -->
+  <path fill="url(#fwave2)">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+        M0,40 C200,70 400,10 600,40 C800,70 1000,10 1200,40 L1200,0 L0,0 Z;
+        M0,40 C200,10 400,70 600,40 C800,10 1000,70 1200,40 L1200,0 L0,0 Z;
+        M0,40 C200,70 400,10 600,40 C800,70 1000,10 1200,40 L1200,0 L0,0 Z" />
+  </path>
+  <path fill="url(#fwave1)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+        M0,25 C150,50 350,5 600,25 C850,50 1050,5 1200,25 L1200,0 L0,0 Z;
+        M0,25 C150,5 350,50 600,25 C850,5 1050,50 1200,25 L1200,0 L0,0 Z;
+        M0,25 C150,50 350,5 600,25 C850,50 1050,5 1200,25 L1200,0 L0,0 Z" />
+  </path>
+</svg>
