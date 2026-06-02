@@ -137,10 +137,10 @@ const cebrail = {
 ## 🤝 Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/DEIN-LINKEDIN">
+  <a href="https://linkedin.com/in/DEIN-LINKEDIN](https://www.linkedin.com/in/cebrail-k">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:DEINE@MAIL.de">
+  <a href="mailto:cebrail.kocakafa@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://DEIN-PORTFOLIO.de">
