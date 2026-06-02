@@ -1,24 +1,13 @@
-<!--
-============================================================
-  WICHTIG: Ersetze ÜBERALL "cebrailk1" durch deinen
-  echten GitHub-Usernamen (Find & Replace).
-  Anleitung + Snake-Workflow stehen unten im Chat.
-============================================================
--->
-
-<!-- ===================== HEADER (self-hosted SVG, läuft NIE in Rate-Limits) ===================== -->
 <a href="https://github.com/cebrailk1">
   <img width="100%" src="https://raw.githubusercontent.com/cebrailk1/cebrailk1/main/header.svg" alt="Cebrail Kocakafa — Full-Stack Developer" />
 </a>
 
-<!-- ===================== TYPING ===================== -->
 <div align="center">
   <a href="https://github.com/cebrailk1">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack%20Developer%20in%20the%20making;Vue%203%20%2B%20TypeScript%20on%20the%20frontend;Java%20%26%20Spring%20Boot%20on%20the%20backend;Cloud%20infrastructure%20with%20AWS%20%26%20OpenTofu;Less%20code%20%3E%20more%20code" alt="typing" />
   </a>
 </div>
 
-<!-- ===================== TOP BADGES ===================== -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cebrailk1&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="views" />
   <a href="https://github.com/cebrailk1?tab=followers">
@@ -29,7 +18,6 @@
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
 ## 👋 About me
 
 ```ts
@@ -51,7 +39,6 @@ const cebrail = {
 
 <br/>
 
-<!-- ===================== TECH STACK ===================== -->
 ## 🧰 Tech Stack
 
 #### Languages
@@ -89,10 +76,8 @@ const cebrail = {
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
-<!-- Adaptive card: passt sich automatisch an Light/Dark-Mode des Betrachters an -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://stats-cebrailk1-8808s-projects.vercel.app/api?username=cebrailk1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
@@ -108,7 +93,6 @@ const cebrail = {
 
 <br/>
 
-<!-- ===================== TROPHIES ===================== -->
 ## 🏆 Trophies
 
 <div align="center">
@@ -117,7 +101,6 @@ const cebrail = {
 
 <br/>
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -126,7 +109,6 @@ const cebrail = {
 
 <br/>
 
-<!-- ===================== SNAKE ===================== -->
 ## 🐍 Watch my contributions get eaten
 
 <div align="center">
@@ -139,24 +121,19 @@ const cebrail = {
 
 <br/>
 
-<!-- ===================== CONNECT ===================== -->
 ## 🤝 Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/DEIN-LINKEDIN">
+  <a href="https://www.linkedin.com/in/cebrail-k">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:DEINE@MAIL.de">
+  <a href="mailto:cebrail.kocakafa@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://DEIN-PORTFOLIO.de">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
   </a>
 </div>
 
 <br/>
 
-<!-- ===================== FOOTER ===================== -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/cebrailk1/cebrailk1/main/footer.svg" alt="footer" width="100%" />
   <sub><i>"Less code is better than more code."</i></sub>
