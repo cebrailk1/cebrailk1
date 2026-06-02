@@ -1,0 +1,99 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cebrail Kocakafa - Full-Stack Developer">
+  <defs>
+    <!-- Animated background gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117">
+        <animate attributeName="stop-color"
+          values="#0D1117;#0a1a2f;#0D1117" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#161b22">
+        <animate attributeName="stop-color"
+          values="#161b22;#13294b;#161b22" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0D1117">
+        <animate attributeName="stop-color"
+          values="#0D1117;#0a1a2f;#0D1117" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Accent gradient for the name -->
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" />
+      <stop offset="50%" stop-color="#79c0ff" />
+      <stop offset="100%" stop-color="#58A6FF" />
+      <animateTransform attributeName="gradientTransform" type="translate"
+        from="-1 0" to="1 0" dur="6s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <!-- Wave gradient -->
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0.35" />
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0.25" />
+    </linearGradient>
+
+    <!-- Soft glow for text -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="b" />
+      <feMerge>
+        <feMergeNode in="b" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)" />
+
+  <!-- Floating dots (subtle tech feel) -->
+  <g fill="#58A6FF">
+    <circle cx="120" cy="70" r="2" opacity="0.5">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1050" cy="90" r="2.5" opacity="0.4">
+      <animate attributeName="opacity" values="0.5;0.1;0.5" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="980" cy="50" r="1.8" opacity="0.6">
+      <animate attributeName="opacity" values="0.1;0.6;0.1" dur="3.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="220" cy="220" r="2" opacity="0.4">
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="4.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="90" cy="160" r="1.5" opacity="0.5">
+      <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3.8s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Main name -->
+  <text x="600" y="135" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="62" font-weight="800" fill="url(#accent)" text-anchor="middle"
+        filter="url(#glow)" letter-spacing="1">
+    Cebrail Kocakafa
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="182" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="22" font-weight="500" fill="#c9d1d9" text-anchor="middle"
+        letter-spacing="3" opacity="0.9">
+    FULL-STACK DEVELOPER &#183; CLOUD &amp; DEVOPS &#183; HAMBURG
+  </text>
+
+  <!-- Animated waves at the bottom -->
+  <path fill="url(#wave2)">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+        M0,240 C200,210 400,270 600,240 C800,210 1000,270 1200,240 L1200,300 L0,300 Z;
+        M0,240 C200,270 400,210 600,240 C800,270 1000,210 1200,240 L1200,300 L0,300 Z;
+        M0,240 C200,210 400,270 600,240 C800,210 1000,270 1200,240 L1200,300 L0,300 Z" />
+  </path>
+  <path fill="url(#wave1)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+        M0,260 C150,235 350,285 600,260 C850,235 1050,285 1200,260 L1200,300 L0,300 Z;
+        M0,260 C150,285 350,235 600,260 C850,285 1050,235 1200,260 L1200,300 L0,300 Z;
+        M0,260 C150,235 350,285 600,260 C850,235 1050,285 1200,260 L1200,300 L0,300 Z" />
+  </path>
+</svg>
