@@ -1,8 +1,14 @@
+<!--
+============================================================
+  WICHTIG: Ersetze ÜBERALL "cebrailk1" durch deinen
+  echten GitHub-Usernamen (Find & Replace).
+  Anleitung + Snake-Workflow stehen unten im Chat.
+============================================================
+-->
 
-
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HEADER (self-hosted SVG, läuft NIE in Rate-Limits) ===================== -->
 <a href="https://github.com/cebrailk1">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Cebrail%20Kocakafa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Cloud%20%26%20DevOps%20%C2%B7%20Hamburg&descAlignY=54&descSize=18" alt="header" />
+  <img width="100%" src="https://raw.githubusercontent.com/cebrailk1/cebrailk1/main/header.svg" alt="Cebrail Kocakafa — Full-Stack Developer" />
 </a>
 
 <!-- ===================== TYPING ===================== -->
@@ -137,10 +143,10 @@ const cebrail = {
 ## 🤝 Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/DEIN-LINKEDIN](https://www.linkedin.com/in/cebrail-k">
+  <a href="https://linkedin.com/in/DEIN-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:cebrail.kocakafa@gmail.com">
+  <a href="mailto:DEINE@MAIL.de">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://DEIN-PORTFOLIO.de">
@@ -152,6 +158,6 @@ const cebrail = {
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/cebrailk1/cebrailk1/main/footer.svg" alt="footer" width="100%" />
   <sub><i>"Less code is better than more code."</i></sub>
 </div>
