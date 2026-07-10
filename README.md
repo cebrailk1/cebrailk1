@@ -35,7 +35,7 @@ const cebrail = {
 - ☁️ &nbsp;Living in the cloud — **AWS** (ECS Fargate, ECR, VPC) provisioned as code with **Terraform / OpenTofu**
 - ⚙️ &nbsp;Big on clean **CI/CD pipelines**, maintainable architecture and shipping things that actually work
 - 🌱 &nbsp;On the path to a **Full-Stack Developer** role — always one commit ahead of yesterday
-- 🏋️ &nbsp;Off-screen: gym, football, and good TV (Pluribus · Breaking Bad · GoT · Rick & Morty)
+- 🏋️ &nbsp;Off-screen: gym, football, padel, diving, and good TV (Pluribus · Breaking Bad · GoT · Rick & Morty)
 
 <br/>
 
