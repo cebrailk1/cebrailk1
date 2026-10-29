@@ -1,5 +1,5 @@
 # Ablage im Repo: .github/workflows/profile-3d.yml
-# Erzeugt täglich den 3D-Contribution-Graph unter profile-3d-contrib/
+# Erzeugt täglich den 3D-Contribution-Graph unter profile-3d-contrib/ und die Snake unter snake/
 # Private Contributions mitzählen: Personal Access Token als Secret (z. B. GH_PAT)
 # anlegen und unten ${{ secrets.GITHUB_TOKEN }} durch ${{ secrets.GH_PAT }} ersetzen.
 name: GitHub-Profile-3D-Contrib
@@ -8,6 +8,9 @@ on:
   schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-3d.yml"]
 
 permissions:
   contents: write
@@ -22,6 +25,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - uses: Platane/snk/svg-only@v3
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake/snake-dark.svg?color_snake=#22D3EE&color_dots=#161B22,#3B2A73,#6D28D9,#A78BFA,#67E8F9
       - name: Commit & Push
         run: |
           git config user.name github-actions

@@ -24,7 +24,13 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,gitlab,nginx,git,arch,neovim&theme=dark&perline=9" alt="AWS, Terraform, Docker, GitHub Actions, GitLab, Nginx, Git, Arch Linux, Neovim" />
 
-<sub>+ Hono · OpenTofu · n8n</sub>
+<sub>+ Hono · OpenTofu</sub>
+
+<br/><br/>
+
+### 🤖 How I build with AI
+
+<img src="https://raw.githubusercontent.com/cebrailk1/cebrailk1/main/ai.svg" width="860" alt="How I build with AI: plan, delegate to subagents, build, verify — plus my Claude Code usage stats" />
 
 <br/><br/>
 
@@ -35,6 +41,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cebrailk1/cebrailk1/main/profile-3d-contrib/profile-green-animate.svg" />
   <img src="https://raw.githubusercontent.com/cebrailk1/cebrailk1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 </picture>
+
+<img src="https://raw.githubusercontent.com/cebrailk1/cebrailk1/main/snake/snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
 
 <br/>
 

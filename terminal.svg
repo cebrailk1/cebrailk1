@@ -122,7 +122,7 @@ text{font-family:'CKMono','JetBrains Mono','Fira Code',ui-monospace,SFMono-Regul
   <g class="in" style="animation-delay:1.53s"><text x="314" y="254" class="k">Cloud</text><text x="426" y="254" class="v">AWS · ECS Fargate · ECR · VPC</text></g>
   <g class="in" style="animation-delay:1.60s"><text x="314" y="278" class="k">IaC</text><text x="426" y="278" class="v">Terraform · OpenTofu</text></g>
   <g class="in" style="animation-delay:1.67s"><text x="314" y="302" class="k">CI/CD</text><text x="426" y="302" class="v">GitLab CI · GitHub Actions</text></g>
-  <g class="in" style="animation-delay:1.74s"><text x="314" y="326" class="k">Tooling</text><text x="426" y="326" class="v">Docker · Nginx · Git · n8n</text></g>
+  <g class="in" style="animation-delay:1.74s"><text x="314" y="326" class="k">Tooling</text><text x="426" y="326" class="v">Docker · Nginx · Git · Claude Code</text></g>
   <g class="in" style="animation-delay:1.81s"><text x="314" y="350" class="k">Speaks</text><text x="426" y="350" class="v">Deutsch · Türkçe · English</text></g>
   <g class="in" style="animation-delay:1.88s"><text x="314" y="374" class="k">Off-screen</text><text x="426" y="374" class="v">Gym · Football · Padel · Diving</text></g>
   <g class="in" style="animation-delay:1.95s"><text x="314" y="398" class="k">Watching</text><text x="426" y="398" class="v">Pluribus · Breaking Bad · GoT · Rick &amp; Morty</text></g>

@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 616" width="860" height="616" role="img" aria-label="How I build with AI: plan, delegate to subagents, build, verify — Claude Code usage stats">
+<style>@font-face{font-family:'CKMono';font-weight:400;src:url(data:font/woff2;base64,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) format('woff2');}@font-face{font-family:'CKMono';font-weight:700;src:url(data:font/woff2;base64,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) format('woff2');}
+text{font-family:'CKMono','JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:15px}
+.v{fill:#E2E8F0}
+.dim{fill:#64748B}
+.k{fill:#67E8F9;font-weight:700;font-size:13px}
+.sub{fill:#94A3B8;font-size:12px}
+.lbl{fill:#67E8F9;font-size:12px;font-weight:700;letter-spacing:2px}
+.num{fill:#E2E8F0;font-size:26px;font-weight:700}
+.flow{fill:none;stroke-width:1.8;stroke-dasharray:4 4;animation:flow 1s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-8}}
+.in{animation:in .5s ease-out both}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}}
+.grow{transform-box:fill-box;transform-origin:left;animation:grow .9s cubic-bezier(.2,.8,.2,1) both}
+@keyframes grow{from{transform:scaleX(0)}}
+.px{transform-box:fill-box;transform-origin:center;animation:pop .45s cubic-bezier(.3,1.6,.5,1) both}
+@keyframes pop{from{opacity:0;transform:scale(.2)}}
+.cur{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0E1424"/><stop offset="1" stop-color="#070A13"/></linearGradient>
+  <linearGradient id="art" gradientUnits="userSpaceOnUse" x1="168" y1="0" x2="358" y2="0" spreadMethod="reflect">
+    <stop offset="0" stop-color="#A78BFA"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#34D399"/>
+    <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="380 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="hl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#67E8F9" stop-opacity=".5"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="typed"><rect x="72" y="60" width="0" height="22">
+    <animate attributeName="width" values="0;9;18;27;36;45;54" begin=".35s" dur=".4s" calcMode="discrete" fill="freeze"/>
+  </rect></clipPath>
+  <clipPath id="win"><rect x="1" y="1" width="858" height="614" rx="16"/></clipPath>
+</defs>
+<rect x="1" y="1" width="858" height="614" rx="16" fill="url(#bg)" stroke="#1E293B"/>
+<g clip-path="url(#win)"><rect x="1" y="1" width="858" height="40" fill="#fff" fill-opacity=".025"/><rect x="1" y="41" width="858" height="1" fill="#1E293B"/><rect x="210" y="1" width="440" height="1" fill="url(#hl)"/></g>
+<circle cx="24" cy="21" r="6" fill="#FF5F57"/><circle cx="44" cy="21" r="6" fill="#FEBC2E"/><circle cx="64" cy="21" r="6" fill="#28C840"/>
+<text x="430" y="26" text-anchor="middle" class="dim" style="font-size:13px">claude — ~/projects</text>
+<text x="40" y="76" fill="#C4B5FD">~</text><path d="M56 66l6 5.5-6 5.5" fill="none" stroke="#34D399" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="72" y="76" fill="#E2E8F0" clip-path="url(#typed)">claude</text>
+<text class="in dim" style="animation-delay:.95s" x="144" y="76"># how I build with AI agents</text>
+<g class="in" style="animation-delay:1.1s"><text x="40" y="118" class="lbl">WORKFLOW</text></g>
+<g class="in" style="animation-delay:1.20s"><rect x="40" y="132" width="168" height="88" rx="10" fill="#A78BFA" fill-opacity=".06" stroke="#A78BFA" stroke-opacity=".55"/><text x="54" y="160"><tspan class="dim">01</tspan><tspan dx="9" fill="#A78BFA" style="font-weight:700">PLAN</tspan></text><text x="54" y="186" class="sub">plan mode first</text><text x="54" y="204" class="sub">scope → spec</text></g>
+<g class="in" style="animation-delay:1.32s"><path class="flow" d="M212 176.0h24" stroke="#A78BFA"/><path d="M234 172.0l6 4-6 4" fill="none" stroke="#A78BFA" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="in" style="animation-delay:1.38s"><rect x="244" y="132" width="168" height="88" rx="10" fill="#22D3EE" fill-opacity=".06" stroke="#22D3EE" stroke-opacity=".55"/><text x="258" y="160"><tspan class="dim">02</tspan><tspan dx="9" fill="#22D3EE" style="font-weight:700">DELEGATE</tspan></text><text x="258" y="186" class="sub">parallel subagents</text><text x="258" y="204" class="sub">explore · research</text></g>
+<g class="in" style="animation-delay:1.50s"><path class="flow" d="M416 176.0h24" stroke="#22D3EE"/><path d="M438 172.0l6 4-6 4" fill="none" stroke="#22D3EE" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="in" style="animation-delay:1.56s"><rect x="448" y="132" width="168" height="88" rx="10" fill="#34D399" fill-opacity=".06" stroke="#34D399" stroke-opacity=".55"/><text x="462" y="160"><tspan class="dim">03</tspan><tspan dx="9" fill="#34D399" style="font-weight:700">BUILD</tspan></text><text x="462" y="186" class="sub">edit · run · test</text><text x="462" y="204" class="sub">in the real shell</text></g>
+<g class="in" style="animation-delay:1.68s"><path class="flow" d="M620 176.0h24" stroke="#34D399"/><path d="M642 172.0l6 4-6 4" fill="none" stroke="#34D399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="in" style="animation-delay:1.74s"><rect x="652" y="132" width="168" height="88" rx="10" fill="#FACC15" fill-opacity=".06" stroke="#FACC15" stroke-opacity=".55"/><text x="666" y="160"><tspan class="dim">04</tspan><tspan dx="9" fill="#FACC15" style="font-weight:700">VERIFY</tspan></text><text x="666" y="186" class="sub">review the diff</text><text x="666" y="204" class="sub">browser via MCP</text></g>
+<g class="in" style="animation-delay:2.0s"><path class="flow" d="M736.0 224V238q0 8-8 8H132.0q-8 0-8-8V230" stroke="#64748B"/><path d="M120.0 232l4-6 4 6" fill="none" stroke="#64748B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><rect x="386" y="236" width="88" height="20" rx="10" fill="#0B1020" stroke="#1E293B"/><text x="430" y="250" text-anchor="middle" class="sub">↻ iterate</text></g>
+<g class="in" style="animation-delay:2.15s"><text x="40" y="296" class="lbl">BY THE NUMBERS</text><text x="176.79999999999998" y="296" class="dim" style="font-size:12px">since Aug 2026 · from my local Claude Code logs</text></g>
+<g class="in" style="animation-delay:2.25s"><rect x="40.0" y="310" width="146.4" height="74" rx="10" fill="#fff" fill-opacity=".03" stroke="#1E293B"/><rect x="54.0" y="310" width="28" height="2" rx="1" fill="#A78BFA"/><text x="54.0" y="348" class="num">33</text><text x="54.0" y="370" class="sub">active days</text></g>
+<g class="in" style="animation-delay:2.33s"><rect x="198.4" y="310" width="146.4" height="74" rx="10" fill="#fff" fill-opacity=".03" stroke="#1E293B"/><rect x="212.4" y="310" width="28" height="2" rx="1" fill="#22D3EE"/><text x="212.4" y="348" class="num">57</text><text x="212.4" y="370" class="sub">sessions</text></g>
+<g class="in" style="animation-delay:2.41s"><rect x="356.8" y="310" width="146.4" height="74" rx="10" fill="#fff" fill-opacity=".03" stroke="#1E293B"/><rect x="370.8" y="310" width="28" height="2" rx="1" fill="#34D399"/><text x="370.8" y="348" class="num">6,160</text><text x="370.8" y="370" class="sub">tool calls</text></g>
+<g class="in" style="animation-delay:2.49s"><rect x="515.2" y="310" width="146.4" height="74" rx="10" fill="#fff" fill-opacity=".03" stroke="#1E293B"/><rect x="529.2" y="310" width="28" height="2" rx="1" fill="#FACC15"/><text x="529.2" y="348" class="num">73</text><text x="529.2" y="370" class="sub">subagents spawned</text></g>
+<g class="in" style="animation-delay:2.57s"><rect x="673.6" y="310" width="146.4" height="74" rx="10" fill="#fff" fill-opacity=".03" stroke="#1E293B"/><rect x="687.6" y="310" width="28" height="2" rx="1" fill="#F472B6"/><text x="687.6" y="348" class="num">10.6M</text><text x="687.6" y="370" class="sub">tokens written</text></g>
+<g class="in" style="animation-delay:2.7s"><text x="40" y="420" class="lbl">TOOLS IT RUNS FOR ME</text></g>
+<g class="in" style="animation-delay:2.80s"><text x="40" y="456" class="v" style="font-size:13px">Bash</text><rect x="168" y="446" width="190" height="12" rx="3" fill="#1E293B"/><rect class="grow" style="animation-delay:2.90s" x="168" y="446" width="190.0" height="12" rx="3" fill="url(#art)"/><text x="370" y="456" class="dim" style="font-size:12px">4,320</text></g>
+<g class="in" style="animation-delay:2.88s"><text x="40" y="482" class="v" style="font-size:13px">Read</text><rect x="168" y="472" width="190" height="12" rx="3" fill="#1E293B"/><rect class="grow" style="animation-delay:2.98s" x="168" y="472" width="79.6" height="12" rx="3" fill="url(#art)"/><text x="370" y="482" class="dim" style="font-size:12px">758</text></g>
+<g class="in" style="animation-delay:2.96s"><text x="40" y="508" class="v" style="font-size:13px">Browser · MCP</text><rect x="168" y="498" width="190" height="12" rx="3" fill="#1E293B"/><rect class="grow" style="animation-delay:3.06s" x="168" y="498" width="42.4" height="12" rx="3" fill="url(#art)"/><text x="370" y="508" class="dim" style="font-size:12px">215</text></g>
+<g class="in" style="animation-delay:3.04s"><text x="40" y="534" class="v" style="font-size:13px">Edit / Write</text><rect x="168" y="524" width="190" height="12" rx="3" fill="#1E293B"/><rect class="grow" style="animation-delay:3.14s" x="168" y="524" width="36.8" height="12" rx="3" fill="url(#art)"/><text x="370" y="534" class="dim" style="font-size:12px">162</text></g>
+<g class="in" style="animation-delay:3.12s"><text x="40" y="560" class="v" style="font-size:13px">Web research</text><rect x="168" y="550" width="190" height="12" rx="3" fill="#1E293B"/><rect class="grow" style="animation-delay:3.22s" x="168" y="550" width="24.0" height="12" rx="3" fill="url(#art)"/><text x="370" y="560" class="dim" style="font-size:12px">69</text></g>
+<g class="in" style="animation-delay:2.7s"><text x="448" y="420" class="lbl">SETUP</text></g>
+<g class="in" style="animation-delay:2.85s"><text x="448" y="456" class="k">agent</text><text x="510" y="456" class="v" style="font-size:12px">Claude Code</text></g>
+<g class="in" style="animation-delay:2.93s"><text x="448" y="482" class="k">models</text><text x="510" y="482" class="v" style="font-size:12px">Opus · Sonnet</text></g>
+<g class="in" style="animation-delay:3.01s"><text x="448" y="508" class="k">mcp</text><text x="510" y="508" class="v" style="font-size:12px">Chrome · Docs</text></g>
+<g class="in" style="animation-delay:3.09s"><text x="448" y="534" class="k">mode</text><text x="510" y="534" class="v" style="font-size:12px">plan → auto</text></g>
+<g class="in" style="animation-delay:2.7s"><text x="637" y="420" class="lbl">ACTIVITY</text><text x="718.6" y="420" class="dim" style="font-size:12px">Aug → Oct</text></g>
+<rect class="px" style="animation-delay:2.800s" x="637" y="436" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:2.812s" x="637" y="453" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:2.824s" x="637" y="470" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:2.836s" x="637" y="487" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:2.848s" x="637" y="504" width="13" height="13" rx="3" fill="#3B2A73"/>
+<rect class="px" style="animation-delay:2.860s" x="637" y="521" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:2.872s" x="637" y="538" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:2.845s" x="654" y="436" width="13" height="13" rx="3" fill="#3B2A73"/>
+<rect class="px" style="animation-delay:2.857s" x="654" y="453" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:2.869s" x="654" y="470" width="13" height="13" rx="3" fill="#A78BFA"/>
+<rect class="px" style="animation-delay:2.881s" x="654" y="487" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:2.893s" x="654" y="504" width="13" height="13" rx="3" fill="#6D28D9"/>
+<rect class="px" style="animation-delay:2.905s" x="654" y="521" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:2.917s" x="654" y="538" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:2.890s" x="671" y="436" width="13" height="13" rx="3" fill="#3B2A73"/>
+<rect class="px" style="animation-delay:2.902s" x="671" y="453" width="13" height="13" rx="3" fill="#3B2A73"/>
+<rect class="px" style="animation-delay:2.914s" x="671" y="470" width="13" height="13" rx="3" fill="#6D28D9"/>
+<rect class="px" style="animation-delay:2.926s" x="671" y="487" width="13" height="13" rx="3" fill="#6D28D9"/>
+<rect class="px" style="animation-delay:2.938s" x="671" y="504" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:2.950s" x="671" y="521" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:2.962s" x="671" y="538" width="13" height="13" rx="3" fill="#67E8F9"/>
+<rect class="px" style="animation-delay:2.935s" x="688" y="436" width="13" height="13" rx="3" fill="#3B2A73"/>
+<rect class="px" style="animation-delay:2.947s" x="688" y="453" width="13" height="13" rx="3" fill="#67E8F9"/>
+<rect class="px" style="animation-delay:2.959s" x="688" y="470" width="13" height="13" rx="3" fill="#A78BFA"/>
+<rect class="px" style="animation-delay:2.971s" x="688" y="487" width="13" height="13" rx="3" fill="#A78BFA"/>
+<rect class="px" style="animation-delay:2.983s" x="688" y="504" width="13" height="13" rx="3" fill="#6D28D9"/>
+<rect class="px" style="animation-delay:2.995s" x="688" y="521" width="13" height="13" rx="3" fill="#67E8F9"/>
+<rect class="px" style="animation-delay:3.007s" x="688" y="538" width="13" height="13" rx="3" fill="#A78BFA"/>
+<rect class="px" style="animation-delay:2.980s" x="705" y="436" width="13" height="13" rx="3" fill="#3B2A73"/>
+<rect class="px" style="animation-delay:2.992s" x="705" y="453" width="13" height="13" rx="3" fill="#6D28D9"/>
+<rect class="px" style="animation-delay:3.004s" x="705" y="470" width="13" height="13" rx="3" fill="#6D28D9"/>
+<rect class="px" style="animation-delay:3.016s" x="705" y="487" width="13" height="13" rx="3" fill="#3B2A73"/>
+<rect class="px" style="animation-delay:3.028s" x="705" y="504" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.040s" x="705" y="521" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.052s" x="705" y="538" width="13" height="13" rx="3" fill="#3B2A73"/>
+<rect class="px" style="animation-delay:3.025s" x="722" y="436" width="13" height="13" rx="3" fill="#3B2A73"/>
+<rect class="px" style="animation-delay:3.037s" x="722" y="453" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.049s" x="722" y="470" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.061s" x="722" y="487" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.073s" x="722" y="504" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.085s" x="722" y="521" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.097s" x="722" y="538" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.070s" x="739" y="436" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.082s" x="739" y="453" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.094s" x="739" y="470" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.106s" x="739" y="487" width="13" height="13" rx="3" fill="#6D28D9"/>
+<rect class="px" style="animation-delay:3.118s" x="739" y="504" width="13" height="13" rx="3" fill="#A78BFA"/>
+<rect class="px" style="animation-delay:3.130s" x="739" y="521" width="13" height="13" rx="3" fill="#A78BFA"/>
+<rect class="px" style="animation-delay:3.142s" x="739" y="538" width="13" height="13" rx="3" fill="#A78BFA"/>
+<rect class="px" style="animation-delay:3.115s" x="756" y="436" width="13" height="13" rx="3" fill="#6D28D9"/>
+<rect class="px" style="animation-delay:3.127s" x="756" y="453" width="13" height="13" rx="3" fill="#A78BFA"/>
+<rect class="px" style="animation-delay:3.139s" x="756" y="470" width="13" height="13" rx="3" fill="#A78BFA"/>
+<rect class="px" style="animation-delay:3.151s" x="756" y="487" width="13" height="13" rx="3" fill="#3B2A73"/>
+<rect class="px" style="animation-delay:3.163s" x="756" y="504" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.175s" x="756" y="521" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.187s" x="756" y="538" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.160s" x="773" y="436" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.172s" x="773" y="453" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.184s" x="773" y="470" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.196s" x="773" y="487" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.208s" x="773" y="504" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.220s" x="773" y="521" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.232s" x="773" y="538" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.205s" x="790" y="436" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.217s" x="790" y="453" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.229s" x="790" y="470" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.241s" x="790" y="487" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.253s" x="790" y="504" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.265s" x="790" y="521" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.277s" x="790" y="538" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.250s" x="807" y="436" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.262s" x="807" y="453" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.274s" x="807" y="470" width="13" height="13" rx="3" fill="#1E293B"/>
+<rect class="px" style="animation-delay:3.286s" x="807" y="487" width="13" height="13" rx="3" fill="#3B2A73"/>
+<g class="in" style="animation-delay:3.4s"><text x="701" y="564" text-anchor="end" class="dim" style="font-size:11px">less</text><rect x="709" y="555" width="11" height="11" rx="2.5" fill="#1E293B"/><rect x="724" y="555" width="11" height="11" rx="2.5" fill="#3B2A73"/><rect x="739" y="555" width="11" height="11" rx="2.5" fill="#6D28D9"/><rect x="754" y="555" width="11" height="11" rx="2.5" fill="#A78BFA"/><rect x="769" y="555" width="11" height="11" rx="2.5" fill="#67E8F9"/><text x="788" y="564" class="dim" style="font-size:11px">more</text></g>
+<g class="in" style="animation-delay:3.6s"><text x="40" y="592" fill="#C4B5FD">~</text><path d="M56 582l6 5.5-6 5.5" fill="none" stroke="#34D399" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><rect class="cur" x="72" y="578" width="9" height="18" rx="1.5" fill="#67E8F9"/></g>
+</svg>
