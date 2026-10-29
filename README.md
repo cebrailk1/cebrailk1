@@ -20,47 +20,15 @@
 
 ### ⚡ Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,java,vue,astro,tailwind,vite,spring,nodejs&theme=dark&perline=9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,java,vue,astro,tailwind,vite,spring,nodejs&theme=light&perline=9" />
-  <img src="https://skillicons.dev/icons?i=ts,js,java,vue,astro,tailwind,vite,spring,nodejs&theme=dark&perline=9" alt="TypeScript, JavaScript, Java, Vue, Astro, Tailwind, Vite, Spring, Node.js" />
-</picture>
+<img src="https://skillicons.dev/icons?i=ts,js,java,vue,astro,tailwind,vite,spring,nodejs&theme=dark&perline=9" alt="TypeScript, JavaScript, Java, Vue, Astro, Tailwind, Vite, Spring, Node.js" />
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,gitlab,nginx,git,arch,neovim&theme=dark&perline=9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,gitlab,nginx,git,arch,neovim&theme=light&perline=9" />
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,gitlab,nginx,git,arch,neovim&theme=dark&perline=9" alt="AWS, Terraform, Docker, GitHub Actions, GitLab, Nginx, Git, Arch Linux, Neovim" />
-</picture>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,gitlab,nginx,git,arch,neovim&theme=dark&perline=9" alt="AWS, Terraform, Docker, GitHub Actions, GitLab, Nginx, Git, Arch Linux, Neovim" />
 
 <sub>+ Hono · OpenTofu · n8n</sub>
 
 <br/><br/>
 
-### 🛰️ How I ship
-
-</div>
-
-```mermaid
-flowchart LR
-    code(["💻 Vue 3 · Spring Boot"]):::app --> ci{{"⚙️ CI/CD"}}:::ci
-    ci -- "docker build & push" --> ecr
-    subgraph aws ["☁️ AWS · VPC"]
-        ecr[("📦 ECR")]:::cloud --> ecs(["🚀 ECS Fargate"]):::cloud
-    end
-    tofu["🧱 OpenTofu"]:::iac -. provisions .-> aws
-
-    classDef app   fill:#1e1b4b,stroke:#a78bfa,color:#e2e8f0
-    classDef ci    fill:#0b1220,stroke:#67e8f9,color:#e2e8f0
-    classDef cloud fill:#052e2b,stroke:#34d399,color:#e2e8f0
-    classDef iac   fill:#2a1a05,stroke:#facc15,color:#e2e8f0
-    style aws fill:transparent,stroke:#22d3ee,stroke-dasharray:5 5,color:#22d3ee
-```
-
-<div align="center">
-
-<br/>
-
-### 🧊 Contributions, but in 3D
+### 📊 Contributions, but in 3D
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cebrailk1/cebrailk1/main/profile-3d-contrib/profile-night-rainbow.svg" />
